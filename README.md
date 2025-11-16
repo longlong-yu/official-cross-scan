@@ -59,6 +59,7 @@ We propose **2D-CrossScan**, a novel 2D-compatible scan framework that enables s
 git clone https://github.com/longlong-yu/official-cross-scan.git
 cd official-cross-scan/kernels/selective_nd_scan
 pip install .
+```
 
 ---
 
@@ -79,7 +80,6 @@ If you find this work helpful, please consider citing:
   journal   = {IEEE Transactions on Multimedia},
   year      = {2025}
 }
-```
 
 --- -->
 
