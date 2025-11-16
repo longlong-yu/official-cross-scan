@@ -49,7 +49,7 @@ We propose **2D-CrossScan**, a novel 2D-compatible scan framework that enables s
 
 ## ✅ Updates
 - (16/11/2025) Code release for 2D-CrossScan kernel.
-- (08/11/2025) Paper accepted by AAAI 2026! 🎉🎉
+- (08/11/2025) Paper accepted to AAAI 2026! 🎉🎉
 
 ---
 
@@ -65,7 +65,8 @@ pip install .
 
 ## 🙏 Acknowledgements
 
-Our implementation of the 2D-CrossScan kernel is primarily inspired by [**Mamba**](https://github.com/state-spaces/mamba), [**VMamba**](https://github.com/MzeroMiko/VMamba), and [**2DMamba**](https://github.com/AtlasAnalyticsLab/2DMamba). Most experiments were conducted by adapting the codebases of [**SparseFormer**](https://github.com/liwenxi/SparseFormer) and [**VMamba**](https://github.com/MzeroMiko/VMamba).
+- Our implementation of the 2D-CrossScan kernel is primarily inspired by [**Mamba**](https://github.com/state-spaces/mamba), [**VMamba**](https://github.com/MzeroMiko/VMamba), and [**2DMamba**](https://github.com/AtlasAnalyticsLab/2DMamba). 
+- The experiments are conducted on top of [**SparseFormer**](https://github.com/liwenxi/SparseFormer) and [**VMamba**](https://github.com/MzeroMiko/VMamba), with minor modifications such as replacing the backbone and kernel.
 
 ---
 
