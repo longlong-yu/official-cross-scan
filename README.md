@@ -1,4 +1,4 @@
-# 2D-CrossScan Mamba: Enhancing State Space Models with Spatially Consistent Multi-Path 2D Information Propagation
+<h1 align="center"> 2D-CrossScan Mamba: Enhancing State Space Models with Spatially Consistent Multi-Path 2D Information Propagation </h1>
 <p align="center">
     <a href="https://aaai.org/Conferences/AAAI-26/">
         <img alt="AAAI 2026" src="https://img.shields.io/badge/AAAI-2026-blueviolet">
